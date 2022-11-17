@@ -1,0 +1,13 @@
+#navbar {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    align-items: center;
+    padding: 1%;
+
+}
+
+.cat-items {
+    display: flex;
+    gap: 10px;
+}
